@@ -14,7 +14,7 @@
 <h3 align="left">Social media</h3>
 <p align="left">
 <p>You can find me on the below-listed platforms...</p>
-<a href="https://linkedin.com/in/karwega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karwega" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karwega-njogo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karwega" height="30" width="40" /></a>
 <a href="mailto:knjogo@outlook.com" target="blank"><img align="center" src="https://freepngimg.com/save/68623-mail-envelope-iphone-email-hd-image-free-png/1024x1024" alt="karwega" width="40" /></a>
 <a href="https://stackoverflow.com/users/21896711/karwega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karwega" height="30" width="40" /></a>
 <a href="https://karwega.medium.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="karwega" height="30" width="40" /></a>
